@@ -1,0 +1,10 @@
+* cl-lib-helper
+
+For common-lisp, organizes libraries and symbols for easy drop-down navigation.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/albuspiroglu/cl-lib-helper.git   |
+| commit  | {"messa  |
+| systems | cl-lib-helper |
+|---------+-------------------------------------------|
+
