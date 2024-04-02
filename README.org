@@ -4,6 +4,6 @@ For common-lisp, organizes libraries and symbols for easy drop-down navigation.
 
 |---------+-------------------------------------------------------|
 | source  | git:https://github.com/albuspiroglu/cl-lib-helper.git |
-| commit  | b290c76                                               |
+| commit  | 17d54f8                                               |
 | systems | lib-helper                                            |
 |---------+-------------------------------------------------------|
